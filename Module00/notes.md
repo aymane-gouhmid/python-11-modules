@@ -48,6 +48,6 @@ This module introduces the fundamentals of Python programming through simple gar
 - Seed Inventory
 
 ## Skills Gained
-- Writing clean Python functions
-- Understanding basic program flow
-- Solving beginner programming exercises
+- Writing clean Python functions.
+- Understanding basic program flow.
+- Solving beginner programming exercises.
